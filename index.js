@@ -94,3 +94,8 @@ app.post('/hamburger', (req, res) => {
 });
 
 app.listen(3000);
+
+//O get usamos para receber as informações, e o post para enviar as informações,
+//é possível fazer a interação com html e css direto do js mas usaremos react
+//dinamica de inserção de dados, de busca, de filtros e de interação do banco de dados com os protocolos de front
+//API, é consumida, podemos plugar qualquer tipo de sistema na API
